@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **electronic skills**
 
-- 👯 I’m looking to collaborate on [big data](https://github.com/AndreaSeminario/Beca-INTI-2022)
+- 👯 I’m looking to collaborate on [BIG DATA](https://github.com/AndreaSeminario/Beca-INTI-2022)
 
 - 👨‍💻 All of my projects are available at [example](example)
 
