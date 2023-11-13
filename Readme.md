@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nat</h1>
 <h3 align="center">A passionate frontend developer from South American country</h3>
 
+Click on a tile to play  
+The most picked move is chosen every hour
+
+Current turn: <img src= "https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/True.png" alt="Current Turn" width="32"/>
+
+| Tic | Tac | Toe |
+|--|--|--|
+| [![Tile 0](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://l.linklyhq.com/l/1pupi) | [![Tile 1](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://l.linklyhq.com/l/1pupm) | [![Tile 2](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://l.linklyhq.com/l/1pupo) |
+| [![Tile 3](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://l.linklyhq.com/l/1pupp) | [![Tile 4](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/False.png)](https://github.com/DoubleGremlin181) | [![Tile 5](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://l.linklyhq.com/l/1pupv) |
+| [![Tile 6](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://l.linklyhq.com/l/1puq3) | [![Tile 7](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://l.linklyhq.com/l/1puq8) | [![Tile 8](https://github.com/DoubleGremlin181/DoubleGremlin181/blob/master/assets/None.png)](https://l.linklyhq.com/l/1puq9) |
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wildblueturtle&label=Profile%20views&color=0e75b6&style=flat" alt="wildblueturtle" /> </p>
 
 - 🔭 I’m currently working on [python ecommerce dev](https://github.com/CodeSystem2022/CoderTeam-Ecommerce)
