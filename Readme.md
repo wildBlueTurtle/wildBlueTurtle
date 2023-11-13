@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from South American country</h3>
 
 <h1 align="center">
-  <img src="" alt="Wild Blue Turtle" />
+  <img src="Captura de pantalla 2023-11-13 151156.png" width="100" alt="Wild Blue Turtle" />
 </h1>
 
 
